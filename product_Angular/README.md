@@ -1,9 +1,5 @@
 # ProductSTORE
-go to this location:
-<br>
- /product_spring/src/main/resources/application.properties
- <br>
- and change this file with your database link
+
 
 
 <br>
