@@ -1,5 +1,13 @@
 # ProductSTORE
+go to this location:
+<br>
+ /product_spring/src/main/resources/application.properties
+ <br>
+ and change this file with your database link
 
+
+<br>
+<br><br><br>
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.3.
 
 ## Development server
